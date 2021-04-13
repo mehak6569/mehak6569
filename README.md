@@ -1,4 +1,3 @@
-# mehak6569
 
 ![Mehakdeep Kaur's-cover](./cover-image.png)
 
