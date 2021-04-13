@@ -1,9 +1,10 @@
 # mehak6569
-I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing. I am also an open source enthusiast.
 
 ![Mehakdeep Kaur's-cover](./cover-image.png)
 
 ## 🧔 About Me
+
+- 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing. I am also an open source enthusiast.
 
 - 🔭 I’m currently working on [Wine Quality Prediction](https://github.com/mehak6569/Wine-Quality-Prediction)
 
