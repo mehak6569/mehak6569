@@ -18,7 +18,7 @@
 
 ## ✍ My Work
 
-[![Mehakdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehak6569&show_icons=true&theme=dark)](https://github.com/Jaagrav)
+[![Mehakdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehak6569&show_icons=true&theme=dark)](https://github.com/mehak6569)
 
 
 
