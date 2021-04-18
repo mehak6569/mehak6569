@@ -24,7 +24,7 @@
 
 ## 📚 My Skills
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehak6569&layout=compact&show_icons=true&theme=dark)](https://github.com/Jaagrav/Jaagrav)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehak6569&layout=compact&show_icons=true&theme=dark)](https://github.com/mehak6569/mehak6569)
 
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
