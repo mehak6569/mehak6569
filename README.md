@@ -1,7 +1,7 @@
 
 ![Mehakdeep Kaur's-cover](./cover-image.png)
 
-## 🧔 About Me
+## 👩 About Me
 
 - 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing. I am also an open source enthusiast.
 
@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, Tensorflow, Remote Sensing and Android Development**
 
-
-
-- :telephone_receiver: Contact me **[here](mehakdeep6569@gmail.com)**
+- ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
 
 ## ✍ My Work
 
