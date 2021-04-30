@@ -13,9 +13,6 @@
 
 - 📫 Contact me **[here](mehakdeep6569@gmail.com)**
 
-- 📄 My Resume [Mehakdeep Kaur's Resume](https://drive.google.com/file/d/1dGN9o6eWPozbhHAVOPaRpOZy_cnGiqbg/view?usp=sharing)
-
-
 ## ✍ My Work
 
 [![Mehakdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehak6569&show_icons=true&theme=dark)](https://github.com/mehak6569)
