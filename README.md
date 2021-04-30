@@ -5,9 +5,7 @@
 
 - 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing. I am also an open source enthusiast.
 
-- 🔭 I’m currently working on [Wine Quality Prediction](https://github.com/mehak6569/Wine-Quality-Prediction)
-
-- 🌱 I’m currently learning **Deep Learning, Tensorflow, Remote Sensing and Android Development**
+- 🌱 I’m currently learning about **Machine Learning and Deep Learning** and contributing to [Girlscript Summer of Code '21](https://gssoc.girlscript.tech/)
 
 - ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
 
