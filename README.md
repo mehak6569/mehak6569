@@ -11,7 +11,7 @@
 
 
 
-- 📫 Contact me **[here](mehakdeep6569@gmail.com)**
+- :telephone_receiver: Contact me **[here](mehakdeep6569@gmail.com)**
 
 ## ✍ My Work
 
