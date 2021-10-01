@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning about **Machine Learning and Deep Learning** and contributing to [Girlscript Summer of Code '21](https://gssoc.girlscript.tech/)
 
-- ✍ Currently contributing to **[Open Source Day](https://anitab-org.github.io/open-source-day/upcoming/)** and **[HacktoberFest](https://hacktoberfest.digitalocean.com/)**
+- 👩‍💻 Currently contributing to **[Open Source Day](https://anitab-org.github.io/open-source-day/upcoming/)** and **[HacktoberFest](https://hacktoberfest.digitalocean.com/)**
 
 - ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
 
