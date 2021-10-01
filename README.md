@@ -5,7 +5,7 @@
 
 - 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing and also an open source enthusiast.
 
-- 🌱 I’m learning about **Machine Learning and Deep Learning** and contributing to [Girlscript Summer of Code '21](https://gssoc.girlscript.tech/)
+- 🌱 I’m learning about **Machine Learning and Deep Learning**
 
 - 👩‍💻 Currently contributing to **[Open Source Day](https://anitab-org.github.io/open-source-day/upcoming/)** and **[HacktoberFest](https://hacktoberfest.digitalocean.com/)**
 
