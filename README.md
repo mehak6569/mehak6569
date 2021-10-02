@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning about **Machine Learning and Deep Learning**
 
-- 👩‍💻 Currently contributing to **[Open Source Day](https://anitab-org.github.io/open-source-day/upcoming/)** and **[HacktoberFest](https://hacktoberfest.digitalocean.com/)**
+- 👩‍💻 Currently contributing to **[HacktoberFest](https://hacktoberfest.digitalocean.com/)**
 
 - ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
 
