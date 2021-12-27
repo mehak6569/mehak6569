@@ -4,9 +4,7 @@
 
 - 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing and also an open source enthusiast.
 
-- 🌱 I’m learning about **Machine Learning and Deep Learning**
-
-- 👩‍💻 Currently contributing to **[HacktoberFest](https://hacktoberfest.digitalocean.com/)**
+- 🌱 I’m learning about various **Deep Learning** algorithms.
 
 - ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
 
