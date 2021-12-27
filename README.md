@@ -1,5 +1,4 @@
 
-![Mehakdeep Kaur's-cover](./cover-image.png)
 
 ## 👩 About Me
 
