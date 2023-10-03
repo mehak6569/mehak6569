@@ -2,15 +2,19 @@
 
 ## 👩 About Me
 
-- 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing and also an open source enthusiast.
+- 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing.
 
+<!--
 - 🌱 I’m learning about various **Deep Learning** algorithms.
+-->
 
 - ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
 
+<!--
 ## ✍ My Work
 
 [![Mehakdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehak6569&show_icons=true&theme=dark)](https://github.com/mehak6569)
+
 
 
 
@@ -35,6 +39,7 @@
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=for-the-badge&logo=python)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql)
 ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=for-the-badge&logo=dash)
+-->
 
 ## 🤝 Connect
 
