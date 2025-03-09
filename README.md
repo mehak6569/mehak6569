@@ -8,7 +8,8 @@
 
 ## 👩 About Me
 
-- 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning, and Quantum Computing.
+- 📫 I am a Computer Science and Engineering student, passionate about **Data Science**, **Machine Learning**, and **Quantum Computing**. I have experience in full-stack development, cloud computing, and MLOps, and I'm driven by the goal of bridging the gap between AI research and real-world applications.
+- Currently, I am a Graduate Research Assistant at the University of Ottawa's Computational Analysis and Acceleration Research Lab (CARG). My research focuses on emotion recognition using physiological signals and speech, leveraging self-supervised learning, transformers, and deep learning techniques to enhance classification accuracy.
 
 <!--
 - 🌱 I’m learning about various **Deep Learning** algorithms.
