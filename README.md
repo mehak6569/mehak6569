@@ -8,7 +8,7 @@
 
 ## 👩 About Me
 
-- 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning and Quantum Computing.
+- 📫 I am a Computer Science and Engineering student, passionate about Data Science, Machine Learning, and Quantum Computing.
 
 <!--
 - 🌱 I’m learning about various **Deep Learning** algorithms.
