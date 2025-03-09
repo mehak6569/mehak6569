@@ -14,7 +14,7 @@
 - 🌱 I’m learning about various **Deep Learning** algorithms.
 -->
 
-- ✉️ Contact me **[here](mehakdeep6569@gmail.com)**
+- ✉️ Contact me **[here](mdhot038@uottawa.ca)**
 
 <!--
 ## ✍ My Work
@@ -47,7 +47,7 @@
 ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=for-the-badge&logo=dash)
 -->
 
-## 🤝 Connect
+## 🤝 Connect with me
 
 [![Skill](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehakdeep-kaur925/)
 [![Skill](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehak6569)
